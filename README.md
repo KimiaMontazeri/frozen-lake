@@ -1,8 +1,6 @@
 # Frozen Lake with RL
 
-Frozen Lake (an environment from the OpenAI Gym library) is a simple Grid World in which the agent should try to reach the goal in a frozen environment.
-In this project, we aim to explore the basic algorithms and concepts of Reinforcement Learning using the FrozenLake environment.
-We can also set the `slippery` mode to true in order to have a stochastic environment.
+The Frozen Lake environment, available in the OpenAI Gym library, presents a classic challenge in Reinforcement Learning. In this Grid World scenario, the agent navigates a frozen terrain to reach a designated goal state. This project is dedicated to exploring fundamental RL algorithms and concepts within the context of the Frozen Lake environment. By experimenting with various RL techniques, we aim to develop strategies that enable the agent to effectively learn and navigate the icy terrain toward the ultimate goal. Additionally, the environment offers the flexibility to introduce stochasticity by enabling the `slippery` mode, adding an extra layer of complexity to the learning process. Through this project, we delve into the intricacies of RL, investigating how agents adapt to both deterministic and stochastic environments to accomplish their objectives.
 
 ## Algorithms
 - Iterative Policy Evaluation
